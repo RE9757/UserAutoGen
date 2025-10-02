@@ -1,0 +1,4 @@
+FirstName,LastName,UserPrincipalName,Department,Enabled
+Alice,Smith,alice.smith@abc.com,HR,TRUE
+Bob,Johnson,bob.johnson@abc.com,IT,FALSE
+Charlie,Black,charlie.black@abc.com,Finance,TRUE
